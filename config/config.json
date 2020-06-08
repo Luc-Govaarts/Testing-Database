@@ -3,9 +3,10 @@
     "username": "root",
     "password": null,
     "database": "database_development",
+    "url": "postgres://gbdwbewn:uTjDqMzW3FEypdtUv2HTgOcD1rpYwJMM@rogue.db.elephantsql.com:5432/gbdwbewn",
     "host": "127.0.0.1",
-    "dialect": "mysql",
-    "operatorsAliases": false
+    "dialect": "postgres",
+    "operatorsAliases": "0"
   },
   "test": {
     "username": "root",
